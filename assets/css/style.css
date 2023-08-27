@@ -1,0 +1,39 @@
+ img{
+    width: 30%;
+    height: 25%;
+}
+
+section.baja{
+    font-size: 16px;
+    text-align: left;
+    margin-top: 16px;
+}
+
+section.baja .baja3{
+    width: 80%;
+}
+
+.baja{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.baja3{
+    padding: 20px;
+    font-size: 1rem;
+}
+
+h2{
+    text-align: center;
+}
+
+
+.lista1 {
+    margin-right: 5px;
+}
+
+* {
+    font-family: 'Jost', sans-serif;
+    background-image: url(../img/bgsite.jpg);
+}
